@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
+</a>  
+
     我是筱沫Shino,可以叫我Shino。
     目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。
     目前使用设备 1.罗技G502  2.DK84(组合轴) 3.Wacom CTL-672
