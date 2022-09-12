@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
 [![](https://img.shields.io/twitter/url?label=Pixiv&logo=pixiv&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://www.pixiv.net/users/32855909)
 [![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
+<!--
 [![](https://img.shields.io/twitter/url?label=twitter&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
-
+-->
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=Java&logoColor=fff)](https://www.java.com/zh-CN/)
 [![](https://img.shields.io/badge/-C++-007D9C?style=flat-square&logo=cplusplus&logoColor=fff)](https://cplusplus.com/)
