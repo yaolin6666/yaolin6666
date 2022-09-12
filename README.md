@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
-</a>  
-
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
     我是筱沫Shino,可以叫我Shino。
     目前正在学习画画，每天坚持练习画画和练枪，想要变得更强更厉害的说。
@@ -26,6 +22,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/twitter/url?label=Steam&logo=steam&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://steamcommunity.com/id/yaolin6666)
 
 ![:name](https://count.getloli.com/get/@:yaolin6666?theme=rule34) 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
+</a>  
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
