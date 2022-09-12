@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
 </a>  
 
-<!-->![:name](https://count.getloli.com/get/@:yaolin6666?theme=asoul)<-->
+<!-- ![:name](https://count.getloli.com/get/@:yaolin6666?theme=asoul) -->
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C++-007D9C?style=flat-square&logo=go&logoColor=fff)](https://cplusplus.com/)
