@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!-- ![:name](https://count.getloli.com/get/@:yaolin6666?theme=asoul) -->
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-007D9C?style=flat-square&logo=go&logoColor=fff)](https://cplusplus.com/)
-[![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
+[![](https://img.shields.io/badge/-C++-007D9C?style=flat-square&logo=cplusplus&logoColor=fff)](https://cplusplus.com/)
+[![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=Java&logoColor=fff)](https://www.java.com/zh-CN/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)  
 
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20-DCD4F6?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
-[![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=vim&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
-[![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=vim&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20-DCD4F6?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
+[![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
+[![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaolin6666/yaolin6666&type=Date)](https://star-history.com/#yaolin6666/yaolin6666&Date)
