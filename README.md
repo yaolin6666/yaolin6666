@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
 [![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yaolin6666&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yaolin6666&theme=github" /> </div>
 
 ## Star History
 
