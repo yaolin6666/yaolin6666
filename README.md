@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
     我是筱沫Shino,可以叫我Shino。
-    目前正在学习画画
+    目前正在学习画画，每天坚持练习画画和练枪，想要变得更强更厉害的说。
     目前使用设备 1.罗技G502  2.DK84(组合轴) 3.Wacom CTL-672
-
-<!-- ![:name](https://count.getloli.com/get/@:yaolin6666?theme=asoul) -->
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
 [![](https://img.shields.io/twitter/url?label=Pixiv&logo=pixiv&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://www.pixiv.net/users/32855909)
 [![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
 [![](https://img.shields.io/twitter/url?label=Steam&logo=steam&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://steamcommunity.com/id/yaolin6666)
+
+![:name](https://count.getloli.com/get/@:yaolin6666?theme=rule34) 
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
