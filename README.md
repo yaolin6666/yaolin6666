@@ -37,4 +37,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20-DCD4F6?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=vim&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
-[![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)  
+[![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=vim&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yaolin6666/yaolin6666&type=Date)](https://star-history.com/#yaolin6666/yaolin6666&Date)
