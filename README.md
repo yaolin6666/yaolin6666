@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
+</a>  
+
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
     我是筱沫Shino,可以叫我Shino。
     目前正在学习画画
     目前使用设备 1.罗技G502  2.DK84(组合轴) 3.Wacom CTL-672
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
-</a>  
 
 <!-- ![:name](https://count.getloli.com/get/@:yaolin6666?theme=asoul) -->
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
