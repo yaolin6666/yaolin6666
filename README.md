@@ -3,11 +3,11 @@
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayayuki6666&show_icons=true&locale=cn" />
 </a>  
 <img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure' width='100' height='100'/>
 
-我是筱沫Shino,可以叫我Shino。<br/>
+我是筱沫Shino,可以叫我Shino。这是写程序时所使用的上传账号<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
 目前使用设备:<br/>1.罗技G502<br/>2.DK84(组合轴)+极简白键帽<br/>3.Wacom CTL-672<br/>
 
