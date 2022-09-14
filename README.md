@@ -2,9 +2,13 @@
 **yaolin6666/yaolin6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
+<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure'>
+
     我是筱沫Shino,可以叫我Shino。
     目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。
     目前使用设备 1.罗技G502  2.DK84(组合轴)+极简白键帽 3.Wacom CTL-672
+
+
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
@@ -32,7 +36,6 @@
 [![](https://img.shields.io/badge/-MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=fff)](https://www.mongodb.com/)
 -->
 
-</a>test<a>
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20-DCD4F6?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
 [![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
