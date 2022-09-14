@@ -7,9 +7,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
 </a>  
 
-    我是筱沫Shino,可以叫我Shino。
-    目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。
-    目前使用设备 1.罗技G502  2.DK84(组合轴)+极简白键帽 3.Wacom CTL-672
+我是筱沫Shino,可以叫我Shino。<br/>
+目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
+目前使用设备:<br/>1.罗技G502<br/>2.DK84(组合轴)+极简白键帽<br/>3.Wacom CTL-672<br/>
 
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
 [![](https://img.shields.io/twitter/url?label=Pixiv&logo=pixiv&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://www.pixiv.net/users/32855909)
