@@ -2,10 +2,10 @@
 **yaolin6666/yaolin6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
-<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure' width='100' height='100'/>
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
 </a>  
+<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure' width='100' height='100'/>
 
 我是筱沫Shino,可以叫我Shino。<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
@@ -15,6 +15,7 @@
 [![](https://img.shields.io/twitter/url?label=Pixiv&logo=pixiv&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://www.pixiv.net/users/32855909)
 [![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://twitter.com/yaolin6666)
 [![](https://img.shields.io/twitter/url?label=Steam&logo=steam&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://steamcommunity.com/id/yaolin6666)
+
 ![:name](https://count.getloli.com/get/@:yaolin6666?theme=rule34) 
 
 🌟 **My Skills & Tools**  
