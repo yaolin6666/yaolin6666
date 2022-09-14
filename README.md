@@ -2,7 +2,7 @@
 **yaolin6666/yaolin6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
-<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure'>
+<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure' width='100' height='100'/>
 
     我是筱沫Shino,可以叫我Shino。
     目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。
