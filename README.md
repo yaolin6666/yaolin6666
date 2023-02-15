@@ -5,7 +5,7 @@
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
 </a>  
-<img src='https://i2.hdslb.com/bfs/face/5c539199e2a0c4d53bf9feb0a99342ffa6e7fc03.jpg' alt='figure' width='100' height='100'/>
+<img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/>
 
 我是筱沫Shino,可以叫我Shino。<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
