@@ -29,6 +29,7 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.mysql.com/)  
 [![](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=fff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-Redis-788094?style=flat-square&logo=Redis&logoColor=fff)](https://redis.io/)
 [![](https://img.shields.io/badge/-Spring-38B68F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![](https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=fff)](https://spring.io/projects/spring-boot/)
 <!--
