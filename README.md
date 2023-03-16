@@ -3,9 +3,14 @@
 -->
 ### Hi there ✨✨(^・ω・^§)ﾉ🌽
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" /> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666" />
 </a>  
-<img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaolin6666&layout=compact" />
+</a>  
+
+<img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/> 
 
 我是筱沫Shino,可以叫我Shino。<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
@@ -40,8 +45,6 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20-DCD4F6?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/IDE-IntelliJ-258EFF?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) 
 [![](https://img.shields.io/badge/IDE-Pycharm-1FD495?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)  
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yaolin6666&theme=github" /> </div>
 
 ## Star History
 
