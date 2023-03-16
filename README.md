@@ -6,11 +6,12 @@
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666&show_icons=true&locale=cn" /> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaolin6666" />
 </a>  
+
+<img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/> 
+
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaolin6666&layout=compact" />
 </a>  
-
-<img src='https://avatars.githubusercontent.com/u/37007707?s=400&u=1c91c2df43ba5534effcb44bfc5f153f9e7ccf72&v=4' alt='figure' width='200' height='200'/> 
 
 我是筱沫Shino,可以叫我Shino。<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
