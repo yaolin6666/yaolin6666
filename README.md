@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaolin6666&layout=compact" />
 </a>  
 
-我是筱沫Shino,可以叫我Shino。<br/>
+我是羽祈Hanori,可以称呼我羽祈或者Hanori。<br/>
 目前正在学习画画,每天坚持练习画画和练枪,想要变得更强更厉害的说。<br/>
 目前使用设备:<br/>1.罗技G502X无线版<br/>2.AE75(组合轴)+原厂高度极简白键帽<br/>3.Wacom PTH-660<br/>
 
