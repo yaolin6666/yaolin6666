@@ -14,7 +14,7 @@
 </a>  
 
 我是羽祈Hanori,可以称呼我羽祈或者Hanori。<br/>
-目前正在学习画画,每天坚持练习画画,想要成为能画出厉害的作品的说。<br/>
+目前正在学习画画,每天坚持练习画画,想要能画出厉害的作品的说。<br/>
 目前使用设备:<br/>1.罗技G502X无线版<br/>2.AE75(组合轴)+原厂高度极简白键帽<br/>3.Wacom PTH-660<br/>
 
 [![](https://img.shields.io/twitter/url?label=Bilibili&logo=bilibili&url=https%3A%2F%2Ftwitter.com%2Fyaolin6666)](https://space.bilibili.com/13574078)
