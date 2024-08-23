@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaolin6666&layout=compact" />
 </a>  
 
-我是羽祈Hanori,可以称呼我羽祈或者Hanori。<br/>
+我是玖汐Kushio,可以称呼我玖汐或者Kushio。<br/>
 目前正在学习画画,每天坚持练习画画,想要能画出厉害的作品的说。<br/>
 目前使用设备:<br/>1.鼠标罗技G502X无RGB无线版<br/>2.工作使用迈从z75银龙带环绕灯带(混装轴)+[原厂高度极简白键帽](https://m.tb.cn/h.ggxXm4VZngQZ97A?tk=qMTZWAszNhT)<br/>3.游戏使用Rainy75(混装轴)星河银+[原厂高度键帽](https://gf.bilibili.com/item/detail/1102904127)<br/>4.数位板Wacom PTH-660<br/>
 
